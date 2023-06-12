@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "611717156447",
+    "project_id": "fir-otp-2a368",
+    "storage_bucket": "fir-otp-2a368.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611717156447:android:080fd2ccab0000691dd5ea",
+        "android_client_info": {
+          "package_name": "com.example.firebaseotp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "611717156447-csk03767ch28fqk88dsl7nkn79ef20vk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD79kMVwQmP8w1jUT5fytJqUI0Jnjvp2iY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "611717156447-csk03767ch28fqk88dsl7nkn79ef20vk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
